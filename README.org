@@ -1,0 +1,10 @@
+* esrap-peg
+
+This is a mirror of monotone repository for Esrap-PEG, generator of Esrap rules from PEG grammars
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fb08af68/esrap-peg.git   |
+| commit  | 8a11ff8  |
+| systems | esrap-peg |
+|---------+-------------------------------------------|
+
